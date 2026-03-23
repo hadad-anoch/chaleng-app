@@ -1,0 +1,14 @@
+{
+  "page": {
+    "title": "title",
+    "description": "explanation",
+    "video": "example.mp4",
+    "levels": [
+      {"name": "level 1" },
+      {"name": "level 2" },
+      {"name": "level 3" },
+      {"name": "level 4" },
+      {"name": "level 5" }
+    ]
+  }
+}
